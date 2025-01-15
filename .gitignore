@@ -3,3 +3,4 @@ backend/researchpapers
 ArxivReader/node_modules
 backend/faiss_index.faiss
 backend/papers.db
+backend/AI/__pycache__
